@@ -1,3 +1,13 @@
+clone di folder xampp/htdocs
+
+nyalakan xampp
+
+ketik di url http://localhost/poliklinik-main/
+
+pilih folder poliklinik-main
+
+
+
 # Login admin
 ```
 username    : admin

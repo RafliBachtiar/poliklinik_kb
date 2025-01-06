@@ -17,3 +17,8 @@ password    : adminselalubenar
 # Login dokter
 password adalah username, jadi password dimasukan nama dokter nya
 
+# Login pasien
+```
+username    : Novban
+password    : Novban
+```
